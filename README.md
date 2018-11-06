@@ -1,7 +1,7 @@
 
 # **Transfer Learning for Image Classification**
 
-Link to Flowers Folder is available on drive : [Flowers](https://drive.google.com/open?id=1RuFvbrCEh3hlaPAWwNwrqtcNs8PbFswv)
+Link to Flowers Folder(for train , test and valid files) is available on drive : [Flowers](https://drive.google.com/open?id=1RuFvbrCEh3hlaPAWwNwrqtcNs8PbFswv)
 
 ![Cover](./assets/cover.png)
 
